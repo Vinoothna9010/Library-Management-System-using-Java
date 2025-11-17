@@ -69,8 +69,10 @@ Thanks for exploring this project!
 ### 📄 License
 This project is open-source and available under the MIT License.
 
-### About Me : 
-Vinoothna Ramagiri – Electronics & Communication Engineering Graduate | Hyderabad
+### 👩‍💻 About Me : 
+👤 Vinoothna Ramagiri  
+📚 ECE Graduate | Aspiring Software Developer  
+📍 Hyderabad, India
 
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:ramagirivinoothna@gmail.com)
 
