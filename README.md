@@ -70,9 +70,12 @@ Thanks for exploring this project!
 This project is open-source and available under the MIT License.
 
 ### 👩‍💻 About Me : 
-👤 Vinoothna Ramagiri  
-📚 ECE Graduate | Aspiring Software Developer  
-📍 Hyderabad, India
+Hi there! I'm Vinoothna Ramagiri  
+ - 🔍 Passionate about **Software Development, Data Analysis**  
+ - 🎓 ECE Graduate  
+ - 🔗 LinkedIn: www.linkedin.com/in/ramagirivinoothna  
+ - 📧 Email: ramagirivinoothna@gmail.com  
+ - 📍 Hyderabad, India  
 
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:ramagirivinoothna@gmail.com)
 
